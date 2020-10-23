@@ -194,7 +194,7 @@ footer p{
     margin-top: 50px;
     /* justify-content: space-around; */
     justify-content:space-around;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
 }
 .perso1{
     width: 20%;
@@ -234,7 +234,7 @@ footer p{
     width: 100%;
     display: flex;
     justify-content: space-around;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
 }
 .perso4{
     width: 20%;
@@ -350,7 +350,6 @@ footer p{
     margin-top: 50px;
     margin-bottom: 50px;
     justify-content: center;
-  
 }
 .form {
     align-self: center;
